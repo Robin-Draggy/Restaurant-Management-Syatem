@@ -1,1 +1,1 @@
-# Restaurant-Management-Syatem
+# Restaurant-Management-System
